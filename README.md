@@ -2,7 +2,7 @@
 
 **Research Questions:** Construct a model that can predict the average life expectancy of a country. To build this model, we are trying to answer the overarching question: 
 
-    *“What predictors significantly affect life expectancy?”* 
+    What predictors significantly affect life expectancy? 
 
 To answer this question, we must determine which predictors are insignificant to the model and if these can be removed. Afterwards, we will try to answer questions such as:
 
